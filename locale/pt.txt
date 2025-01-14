@@ -44,15 +44,15 @@ audiores_716B6B4E_6123_7419_41D1_496AF28117AA.mp3Url = media/audio_6E11B339_6123
 
 ### Title
 video_4401D187_60DF_32C6_41B5_69C3908312AF.label = 0113
-panorama_6F0E112C_6125_3418_41C3_8BDA63E6F768.label = Hericòs Burger
-panorama_6F0A0429_6123_3C1B_41C7_09030EFB3894.label = Hericòs Burger
-panorama_5362FBD6_5FDC_F659_41D6_0B2534AE5863.label = Hericòs Burger
-panorama_6F25E474_6126_DC08_41A0_403EB186274A.label = Hericòs Burger
-panorama_6E903129_6165_7418_41B2_F530ABCB6143.label = Hericòs Burger
+panorama_6F0E112C_6125_3418_41C3_8BDA63E6F768.label = Henrico’s Burger
+panorama_6F0A0429_6123_3C1B_41C7_09030EFB3894.label = Henrico’s Burger
+panorama_5362FBD6_5FDC_F659_41D6_0B2534AE5863.label = Henrico’s Burger
+panorama_6F25E474_6126_DC08_41A0_403EB186274A.label = Henrico’s Burger
+panorama_6E903129_6165_7418_41B2_F530ABCB6143.label = Henrico’s Burger
 
 ### Video
-videolevel_728BD736_6363_3C08_41BA_471669DD35DC.posterURL = media/video_4401D187_60DF_32C6_41B5_69C3908312AF_poster_pt.jpg
-videolevel_728BD736_6363_3C08_41BA_471669DD35DC.url = media/video_4401D187_60DF_32C6_41B5_69C3908312AF_pt.mp4
+videolevel_74AF519B_6365_343F_41AD_1A2202CEB089.posterURL = media/video_4401D187_60DF_32C6_41B5_69C3908312AF_poster_pt.jpg
+videolevel_74AF519B_6365_343F_41AD_1A2202CEB089.url = media/video_4401D187_60DF_32C6_41B5_69C3908312AF_pt.mp4
 
 ### Video Subtitles
 
@@ -95,4 +95,4 @@ Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD.url = skin/Image_7640858A_79A5_1A7F_4
 tour.description = Sejam Bem-vindos ao Tour Virtual 360º
 
 ### Title
-tour.name = Hericòs Burger 
+tour.name = Henrico’s Burger
