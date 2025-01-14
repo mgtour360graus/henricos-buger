@@ -1,45 +1,45 @@
 {
  "icons": [
   {
-   "sizes": "150x150",
    "src": "misc/icon150.png",
-   "type": "image/png"
+   "type": "image/png",
+   "sizes": "150x150"
   },
   {
-   "sizes": "16x16",
    "src": "misc/icon16.png",
-   "type": "image/png"
+   "type": "image/png",
+   "sizes": "16x16"
   },
   {
-   "sizes": "180x180",
    "src": "misc/icon180.png",
-   "type": "image/png"
+   "type": "image/png",
+   "sizes": "180x180"
   },
   {
-   "sizes": "192x192",
    "src": "misc/icon192.png",
-   "type": "image/png"
+   "type": "image/png",
+   "sizes": "192x192"
   },
   {
-   "sizes": "32x32",
    "src": "misc/icon32.png",
-   "type": "image/png"
+   "type": "image/png",
+   "sizes": "32x32"
   },
   {
-   "sizes": "512x512",
    "src": "misc/icon512.png",
-   "type": "image/png"
+   "type": "image/png",
+   "sizes": "512x512"
   },
   {
-   "sizes": "64x64",
    "src": "misc/icon64.png",
-   "type": "image/png"
+   "type": "image/png",
+   "sizes": "64x64"
   }
  ],
- "start_url": "index.htm",
  "display": "fullscreen",
  "description": "Sejam Bem-vindos ao Tour Virtual 360º",
  "theme_color": "#FE8700",
  "background_color": "#FE8700",
- "name": "Henrico’s Burger"
+ "name": "Henrico’s Burger",
+ "start_url": "index.htm"
 }
